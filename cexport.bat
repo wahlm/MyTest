@@ -5,4 +5,6 @@ conan export libD mawa/test
 conan export libAalias libA/0.1.latest@mawa/test
 conan export libBalias libB/0.1.latest@mawa/test
 conan export libCalias libC/0.1.latest@mawa/test
+conan export libCalias2 libC/0.1.0@mawa/test
 conan export libDalias libD/0.1.latest@mawa/test
+conan export libDalias2 libD/0.1.15@mawa/test
